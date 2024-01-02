@@ -612,7 +612,7 @@
             visible                     when(1 && 1);
             textscale                   0.55
             background                  "navbar_selection_bar_shadow"
-            exp rect x                  ((0 - 267.5) + "X_OFFSET");
+            exp rect x                  ((0 - 267.5));
             exp rect y                  29 + (1 * 22) + (16.367 * 0);
             exp rect w                  270;
         }
@@ -11111,7 +11111,7 @@
             visible                     when(1 && 1);
             textscale                   0.55
             background                  "navbar_selection_bar_shadow"
-            exp rect x                  ((0 - 267.5) + "X_OFFSET");
+            exp rect x                  ((0 - 267.5));
             exp rect y                  205 + (1 * 22) + (16.367 * 0);
             exp rect w                  270;
         }
@@ -12840,7 +12840,7 @@
             visible                     when(1 && 1);
             textscale                   0.55
             background                  "navbar_selection_bar_shadow"
-            exp rect x                  ((7.5) + "X_OFFSET");
+            exp rect x                  ((7.5));
             exp rect y                  29 + (1 * 22) + (16.367 * 0);
             exp rect w                  270;
         }
@@ -14142,7 +14142,7 @@
             visible                     when(1 && 1);
             textscale                   0.55
             background                  "navbar_selection_bar_shadow"
-            exp rect x                  ((7.5) + "X_OFFSET");
+            exp rect x                  ((7.5));
             exp rect y                  205 + (1 * 22) + (16.367 * 0);
             exp rect w                  270;
         }
